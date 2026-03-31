@@ -56,7 +56,8 @@ C:\tracert 172.17.80.1
 C:\tracert www.saveetha.ac.in
 ```
 # OUTPUT
-![WhatsApp Image 2026-03-21 at 11 40 51 AM](https://github.com/user-attachments/assets/f481aa54-b357-4102-a6d9-4b3a22cc48e1)
+![WhatsApp Image 2026-03-31 at 9 51 37 PM](https://github.com/user-attachments/assets/879dd59c-00bd-4c81-826c-551fdc5fb322)
+
 
 
 # RESULT
